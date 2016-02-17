@@ -1,5 +1,5 @@
 # GUI app to the latest scrape VTU results
-My first time making a cross platform desktop applications using the **Shoes GUI toollkit**.
+My first time making a cross platform desktop application using the **Shoes GUI toollkit**.
 
 This application prompts the user for a student id number and returns the result which can be saved to a text file.
 
